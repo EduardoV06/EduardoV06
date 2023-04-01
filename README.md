@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Eduardo, a 20-year-old male statistics university student studying at the University of Rio de Janeiro State. I have advanced knowledge of Python and I'm currently working on developing a file management desktop app with Rust. As an aspiring developer, I'm passionate about programming and constantly seeking to expand my knowledge. Right now, I'm focused on learning Rust and Simulations. Thanks for visiting my profile!
+Hi, I'm Eduardo, statistics university student studying at the University of Rio de Janeiro State. I have advanced knowledge of Python and I'm currently working on developing a file management desktop app with Rust. As an aspiring developer, I'm passionate about programming and constantly seeking to expand my knowledge. Right now, I'm focused on learning Rust and Simulations. Thanks for visiting my profile!
 
 
 ## 🌐 Socials:
