@@ -1,4 +1,4 @@
-# 💫 About Me:
+[# 💫 About Me:
 Hi, I'm Eduardo, statistics university student studying at the University of Rio de Janeiro State. I have advanced knowledge of Python and I'm currently working on developing a file management desktop app with Rust. As an aspiring developer, I'm passionate about programming and constantly seeking to expand my knowledge. Right now, I'm focused on learning Rust and Simulations. Thanks for visiting my profile!
 
 
@@ -12,3 +12,4 @@ Hi, I'm Eduardo, statistics university student studying at the University of Rio
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EduardoV06&theme=darcula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoV06&theme=darcula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+](https://medium.com/@evodopives)
